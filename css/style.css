@@ -11,10 +11,10 @@ header {
 
 .flex-container-header {
 	display: -webkit-flex;
-	-webkit-justify-content: center; 
+	-webkit-justify-content: space-around; 
 	-webkit-align-items: center;
 	display: flex; /*отображает контейнер как блочный элемент*/
-	justify-content: center;
+	justify-content: space-around;
 	align-items: center;
 }
 .menu {
@@ -38,4 +38,46 @@ nav ul li {
 	margin: 5px 20px 5px 20px;
 
 }
-nav ul li hover:{
+nav ul li hover:{}
+
+#column1 {
+	border: 1px solid black;
+	height: 200px;
+	/*margin: 5px;*/
+	/*background-color: red;*/
+}
+
+.aye {
+	background-color: 
+}
+
+.zona {
+	background-color: 
+}
+
+.zeki { 
+	background-color:
+
+}
+
+.row {
+	margin-top: 10px;
+}
+.denchik_xoxol {
+	margin-top: 15px;
+}
+#Sasha:hover {
+ 	border-radius: 3px;
+ 	border:2px solid black;
+}
+#Sasha{
+	border: 2px solid #DCDCDC;
+	border-radius: 3px;
+}
+#kock {
+	padding-left: 200px;
+}
+
+#BLOCK {
+	width: 400px;
+}
